@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ValueLink - 기업가치평가 플랫폼
 
 **실제 검증 사례 5건을 포함한 완전 작동 시스템**
@@ -213,3 +214,7 @@ git config user.name "SUNWOONGKYU"
 ---
 
 **Made with ❤️ by Claude Code**
+=======
+# test03
+DCF 평가법 학습 콘텐츠
+>>>>>>> 874062624a6a2db79cbd74521bb032f2459dcc80
